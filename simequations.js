@@ -28,5 +28,5 @@ function calculate() {
     g = c-b*h;
     i = g/a
 
-    document.getElementById("output").innerText = `x = ${i} y = ${h}`;
+    document.getElementById("output").innerText = `x = ${i} \ny = ${h}`;
 }
